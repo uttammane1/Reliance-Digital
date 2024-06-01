@@ -1,0 +1,285 @@
+.box{
+    /* border: 2px solid black;  */
+    display: flex; 
+    justify-content: space-around; 
+    width: 90%; 
+    margin: 30px auto; 
+    background-color: unset; 
+    gap: 30px; 
+}
+
+.box>div:nth-child(1){
+    flex: 7;
+}
+.box>div:nth-child(2){
+    flex: 3;
+}
+
+/* ===== product box styling ===== */
+
+.productbox{ 
+    display: flex; 
+    border: 0; 
+    padding: 10px;  
+}
+
+.proinfobox{
+    border-radius: 4px;
+    background-color: white;  
+    overflow: hidden;
+    margin: 0;
+    margin: 10px 0;
+    padding: 4px 10px 0 10px ; 
+    padding: 0;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.cartimg{
+    width: 80%;   
+}
+
+.productbox>div:nth-child(1){
+    flex: 1;  
+}
+.productbox>div:nth-child(2){
+    flex: 3;  
+    padding: 0 10px; 
+}
+.productbox>div:nth-child(3){
+    flex: 2;  
+    text-align: end;
+} 
+
+.productbox h3{
+    font-size: medium; 
+    font-weight: 400; 
+    color: rgb(0, 0, 126);  
+    display: -webkit-box; 
+    -webkit-line-clamp: 2;  
+    -webkit-box-orient: vertical; 
+    overflow: hidden;  
+    margin: 0 0 10px 0;
+} 
+
+.productbox h2{
+    font-size: medium; 
+    font-weight: 400; 
+    color: rgb(0, 0, 0);  
+}
+
+.productbox h5>span{
+    font-size: x-small; 
+    color: rgb(229,45,49); 
+}
+
+.productbox h5{
+    display: flex; 
+    align-items: center;  
+    gap: 6px ; 
+}
+
+#strikethrough{
+    font-size: small; 
+    color: rgb(89, 122, 122);
+}
+#strikethrough>span{
+    font-size: x-small; 
+} 
+
+.plslogo{ 
+    color: black ; 
+    background-color: yellow; 
+    border-radius: 90px;   
+    padding: 4px;
+}
+
+#delevery{
+    display: flex; 
+    align-items: center; 
+    font-size: small; 
+    text-align: end; 
+    color: rgb(58, 58, 183);
+    justify-content: flex-end; 
+} 
+
+#ships{
+    font-size: 14px; 
+    color: rgb(27, 146, 146);
+}
+
+#gov{
+    font-size: 10px;
+    color: rgb(27, 146, 146);
+}
+#mxm{
+    display: grid; 
+    gap: 6px; 
+}
+
+/* ======= cart Product buttons =========== */  
+
+.cartbutton{
+    display: flex; 
+    width: 100%;  
+    margin: 0 auto 0 auto; 
+}
+.cartbutton>button:nth-child(1){
+    flex: 1; 
+    padding: 10px; 
+    margin: 0;
+    background-color: white;
+    border-radius: 0;
+    border: 1px solid rgb(194, 194, 194) ; 
+    cursor: pointer;
+    color: blue; 
+    border-bottom-left-radius: 4px ;
+}
+.cartbutton>button:nth-child(2){
+    flex: 1; 
+    border-radius: 0;
+    margin: 0; 
+    padding: 10px;
+    border: 1px solid rgb(194, 194, 194) ;
+    background-color: white;
+    cursor: pointer; 
+    color: blue; 
+    border-bottom-right-radius: 4px ;
+}
+
+
+/* ================================== */
+
+/* ========= checkout Box =========== */ 
+
+.checkoutbox{
+    padding: 10px;   
+}
+
+.checkoutbox h4{
+    font-size: medium; 
+    font-weight: 400; 
+}
+
+#checkoutbtn{
+    width: 100%;  
+    background: rgb(228,37,41);  
+    color: white; 
+    padding: 8px; 
+    border-radius: 3px; 
+    border: 0; 
+}
+
+/* ======= cart coupon ============ */  
+
+#coupon{
+    display: flex; 
+    width: 100%;   
+} 
+
+#coupon>input{
+    width: 70%; 
+    padding: 6px 18px; 
+    border: 1px solid rgb(199, 199, 199); 
+    border-right: 1px solid blue; 
+    outline: 0; 
+    border-top-left-radius: 3px ; 
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 3px; 
+}
+
+#coupon>button{
+    width: 30%; 
+    padding: 6px 10px; 
+    border: 1px solid rgb(199, 199, 199); 
+    border-left: 2px solid blue;  
+    color: blue;  
+    font-weight: 500;
+    border-top-left-radius: 0 ; 
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 0; 
+}
+
+
+/* ========== pricebox ========== */
+
+#pricebox{
+    margin: 0 0 10px 0 ; 
+}
+
+#pricebox>div{
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    margin: 14px 0;  
+}
+
+#pricebox h4{
+    font-size: small ; 
+    color: teal; 
+}
+
+.finalout{
+    margin-top: 20px ; 
+    padding: 16px 14px ; 
+    display: grid;
+    gap: 8px; 
+    background-color: white; 
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.finalout hr{
+    border-radius: 20px; 
+    border: 1px solid rgba(160, 160, 160, 0.4); 
+}
+
+.finalout>hr{
+    margin: 8px 0;  
+}
+
+.bottom{
+    position: fixed; 
+    bottom: 0; 
+    left: 0;
+    right: 0; 
+    display: none; 
+    background-color: white;   
+}
+.bottom>button:nth-child(1){
+    flex: 1; 
+    padding: 10px;
+    border: 0;
+}
+.bottom>button:nth-child(2){
+    flex: 1; 
+    background: rgb(228,37,41);  
+    color: white; 
+    padding: 10px;
+    border: 0; 
+}
+ 
+.payamt h5{
+    font-family: 'Montserrat', sans-serif;   
+    color: rgb(105, 105, 105);  
+    font-weight: 500;  
+}
+
+
+/* ====== media query for 0-980px =========== */
+
+
+@media screen and (max-width:980px) {
+    .box{
+        display: grid; 
+        grid-template-columns: repeat(1,1fr);
+    }
+    #checkoutbtn{
+        display: none; 
+    } 
+
+    .bottom{
+        display: flex; 
+    }
+
+}

@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  overflow-x: hidden;
+  padding: 0px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#filters{
+   width: 20%;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px
+}
+
+#productCards{
+  
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+ 
+}
+
+#cardTitle{
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+#sortingButton{
+  border-radius: 5px;
+  background:#ebeeef;
+  color:black;
+  padding:0px 8px 0px 8px;
+margin-right: 10px;
+}
+#titleBar{
+   width: 78%;
+}
+#priceRange{
+ justify-content: space-evenly;
+}
+
+@media all and (min-width: 360px) and (max-width: 750px) {
+  #productCards{
+    grid-template-columns: repeat(1,1fr);
+}
+#filters{
+  display: none;
+ 
+}
+#sortButtonContainer{
+  display: none;
+}
+#titleBar{
+  width: 90%;
+  
+}
+#Productcard img{
+margin: auto;
+}
+
+#priceRange{
+  flex-direction: column;
+}
+
+}
+
+@media all and (min-width: 751px) and (max-width: 1024px) {
+  #productCards{
+    grid-template-columns: repeat(2,1fr);
+   
+}
+#filters{
+  display: none;
+}
+#titleBar{
+  width: 90%;
+  
+}
+#Productcard img{
+  margin: auto;
+  }
+#sortButtonContainer{
+  display: none;
+}
+
+#priceRange{
+  flex-direction: column;
+}
+
+}
+@media all and (min-width: 1025px) and (max-width: 1280px) {
+  #productCards{
+  
+    grid-template-columns: repeat(3,1fr);
+   
+}
+
+#priceRange{
+  flex-direction: column;
+}
+
+}

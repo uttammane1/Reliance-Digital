@@ -1,0 +1,184 @@
+.main { 
+  width: 90%;
+  margin: auto;
+  padding: 2px;
+  display: flex;
+  background-color: rgb(223, 223, 223);
+  gap: 2px; 
+}
+
+.box1 { 
+  flex: 3;
+  background-color: white;
+}
+
+.box2 {
+  flex: 6;
+  background-color: white;
+}
+
+.heading {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-align: left;
+  margin: 10px;
+}
+
+.infobox {
+  display: flex;
+}
+
+.info1 {
+  flex: 7;
+  border: 1px solid rgb(245, 247, 247);
+  border-bottom: 0;
+  padding: 10px;
+  text-align: left;
+  border-left: 0;
+}
+
+.info2 {
+  flex: 6;
+  border: 1px solid rgb(245, 247, 247);
+  border-bottom: 0;
+  text-align: left;
+  padding: 10px;
+  border-right: 0;
+}
+
+.info2>*{
+  margin: 6px 0;
+}
+
+.mrp {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: rgb(87, 87, 87);
+}
+
+.inc {
+  font-size: x-small;
+  margin-top: -2;
+}
+
+.discount {
+  color: rgb(126, 126, 126);
+}
+
+.delev {
+  width: 24px;
+}
+
+.lines {
+  font-size: x-small;
+} 
+
+/* button box */
+
+.butbox {
+  margin: 10px 0;
+  display: flex;  
+  gap: 20px; 
+}
+
+.butbox > * {
+  flex: 1; 
+  color: white;  
+  border-radius: 2px; 
+}
+
+.butbox>button:nth-child(1){
+  background-color: rgb(228,37,41);  
+  padding: 8px 0; 
+}
+
+.butbox>button:nth-child(1):hover{ 
+  background-color: rgb(0, 0, 150); 
+}
+ 
+.butbox>button:nth-child(2){
+  background-color: rgb(252,96,39) ;
+  padding: 8px 0;  
+}
+
+.butbox>button:nth-child(2):hover{
+  background-color: rgb(255, 68, 0) ; 
+}
+
+.alert{
+  position: fixed; 
+  top:0;   
+  background-color: rgb(0, 0, 255); 
+  padding: 20px 10px; 
+  margin: 20px 40%; 
+  width: 280px;  
+  border-radius: 10px; 
+  color: white; 
+}
+
+.alert>h2{
+  display: flex; 
+  align-items: center ;  
+  gap: 10px; 
+}
+ 
+
+@media all and (max-width: 580px) {
+  .main {
+    display: grid; 
+    width: 90%; 
+    margin: auto; 
+  }
+  .heading{
+    font-size: small; 
+  }
+
+  .infobox {
+    display: grid;
+    grid-template-areas:
+      "box2 "
+      "box1";
+  }
+  .info1 {
+    grid-area: "box1"; 
+  }
+  .info2 {
+    grid-area: "box2";
+  }
+  .butbox{
+    position: fixed;   
+    background-color: blue;  
+    bottom: 0;
+    left: 0; 
+    margin: 0;  
+    right: 0; 
+    gap: 0; 
+  }
+
+  .butbox>button:nth-child(1){
+    color: rgb(228,37,41);  
+    background-color: white; 
+    padding: 4px 0; 
+  }
+
+  .butbox > * { 
+    border-radius: 0; 
+  }
+  
+  .butbox>button:nth-child(1):hover{ 
+    background-color: rgb(0, 0, 150); 
+    color: white; 
+  }
+
+  .alert{
+    margin: 20px 28%;  
+  }
+
+  .alert>h2{ 
+    text-align: center; 
+  }
+
+}
