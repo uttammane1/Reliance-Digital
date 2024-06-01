@@ -1,4 +1,4 @@
-## Project Name -  adventurous-sweater-7809 (Digital Xpress)
+## Project Name -  Reliance-Digital-Clone
 
 Reliance Digital is ECommerce Website & is a clone of Reliance Digital. It is used for buying the electrical products, Home Appliances & other kind of products. Reliance Digital Stores are bigger in size than the other format Reliance Digital Mini Stores. It is one of the largest electronics retailers in India with over 5,000 products in its inventory.
 

@@ -138,7 +138,7 @@ export default function Footer() {
       <Center>
         <Text fontSize="14px" p="1">
           {" "}
-          © 2023 Digital Xpress. All Rights Reserved.
+          © 2024 Reliance Digital. All Rights Reserved. @Uttam Mane
         </Text>
       </Center>
     </Box>
