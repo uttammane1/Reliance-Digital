@@ -1,16 +1,12 @@
 ## Project Name -  adventurous-sweater-7809 (Digital Xpress)
 
-Digital Xpress is ECommerce Website & is a clone of Reliance Digital. It is used for buying the electrical products, Home Appliances & other kind of products. Digital Express Digital Stores are bigger in size than the other format Digital Xpress Mini Stores. It is one of the largest electronics retailers in India with over 5,000 products in its inventory.
-
-## Deployed Link
-
-Visit : https://adventurous-sweater-7809.vercel.app/
+Reliance Digital is ECommerce Website & is a clone of Reliance Digital. It is used for buying the electrical products, Home Appliances & other kind of products. Reliance Digital Stores are bigger in size than the other format Reliance Digital Mini Stores. It is one of the largest electronics retailers in India with over 5,000 products in its inventory.
 
 ## Responsive for all screen sizes
 
 ## Tech Stack Used
 
-Digital Xpress webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
+Reliance Digital webiste looks very amazing and introduced with various type of languages like React, JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
 
 <ul dir="auto">
  <ol dir="auto">◉ JavaScript : 94.0%</ol>
@@ -97,12 +93,3 @@ We using different kinds of the technologies to make this website. These things 
 
 - Javascript, React, Readux, Chakra UI, CSS, HTML etc.
 
-## Contributers
-
- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-- [x] Abha Meshram - [GitHub Profile](https://github.com/abha2510)
-- [x] Mukesh Kaushal - [GitHub Profile](https://github.com/imukeshkaushal) 
-- [x] Rajat Agrawal - [GitHub Profile](https://github.com/agrawalrajat310)
-- [x] Tushit Saxena - [GitHub Profile](https://github.com/tushit99)
-- [x] Braj Mohan Verma - [GitHub Profile](https://github.com/vermabraj)
