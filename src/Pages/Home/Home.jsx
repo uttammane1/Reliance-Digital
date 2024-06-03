@@ -111,7 +111,7 @@ const Home = () => {
         <ImageSet
           type={AppleWatch}
           heading="Price Drop on Apple Smartwatches"
-          src="https://www.reliancedigital.in/medias/Apple-Watches-Producst-Carousel-29-11-2022.jpg?context=bWFzdGVyfGltYWdlc3w1NTYyOHxpbWFnZS9qcGVnfGltYWdlcy9oOTQvaDQyLzk5MjgzNzA5Nzg4NDYuanBnfDg5OTE2MzFkOTU2YmI1ODhjOTZmODQ2YzkyNjUzNjYwZTYxZGQ2NGY4OTdhNmU3YjBkZGZmZGI3MzM2OWQwNzQ"
+          src="https://www.reliancedigital.in/medias/Apple-Watch-Series-9.jpg?context=bWFzdGVyfGltYWdlc3w1MjY2NHxpbWFnZS9qcGVnfGltYWdlcy9oMjkvaDRmLzEwMTI1MTcwMjc4NDMwLmpwZ3wwYjZlODE1YmQ0ZTdmNTgzODc2M2JkMzk0ZWNlZTc0YWUwODc3ZTZjZmNlMDMyZGY1NDNmNDgxNWFkNjljOWFk"
         />
       </Box>
 

@@ -68,8 +68,8 @@ const Wishlist = () => {
                   border="0"
               >
                   <div className={wsh.myinfo}>
-                      <h2> Tushit </h2>
-                      <p> tushitsaxena4@gmail.com </p>
+                      <h2> Uttam </h2>
+                      <p> uttammaneofficial@gmail.com </p>
                   </div>
                   <Text>
                       <Tab
@@ -173,8 +173,8 @@ const Wishlist = () => {
                           <div className={wsh.option}>
                               <div>
                                   <div>
-                                      <h3> Tushit's Profile </h3>
-                                      <p> tushit4@gmail.com </p>
+                                      <h3> Uttam's Profile </h3>
+                                      <p> uttammaneofficial@gmail.com </p>
                                   </div>
                                   <img
                                       src="https://www.reliancedigital.in/build/client/images/my-account/my_profile.jpg"

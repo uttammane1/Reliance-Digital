@@ -6,7 +6,7 @@ const Loader = () => {
     return (
         <div>
         <Load>
-           <Image height = {"100px"} width = "300px" src="https://i.ibb.co/6NyYS2H/New-Project-5.png" alt="logo"/>
+           <Image height = {"500px"} width = "450px" src="https://assetscdn1.paytm.com/images/catalog/product/D/DE/DEAUP-TO-RS-300PAYT4FA507086/0x1920/70/1.jpg" alt="logo"/>
         </Load>
         </div>
     );
