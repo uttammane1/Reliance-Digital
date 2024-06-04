@@ -28,12 +28,12 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/Reliance-Digital_Clone.git
+    git clone - https://github.com/uttammane1/Reliance-Digital.git
     ```
 
 2. **Navigate to the project directory:**
     ```sh
-    cd Reliance-Digital_Clone
+    cd Reliance-Digital
     ```
 
 3. **Install dependencies:**
