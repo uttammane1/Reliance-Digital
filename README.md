@@ -35,7 +35,7 @@ Reliance Digital webiste looks very amazing and introduced with various type of 
  
  </ul>
  
- ![image](https://user-images.githubusercontent.com/97522154/214007653-2b25072e-ae3d-46c8-81b3-446c0407f1a2.png)
+![Screenshot (220)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/61078c8f-c2eb-448c-806e-975274d26ef9)
 
 This report is provided by the Github language used stats. So, this is the total percentage of the coding languages. Now we explain our project in details.
 
@@ -44,23 +44,23 @@ This report is provided by the Github language used stats. So, this is the total
 ### Homepage
 
 Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the Products and populer services are mentioned here. Take a look on it.
+![Screenshot (221)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/5d8ebb52-a866-4190-933c-e4d3cf27b30b)
 
-![image](https://user-images.githubusercontent.com/97522154/214004365-b4201ea2-9842-4460-8a15-471a41b2d02e.png)
 
 ### Small Screen : 
 
-![image](https://user-images.githubusercontent.com/97522154/214005203-af365563-09d6-4ddb-9b95-dc38fb1d7892.png)
+![reliance-digital-sigma vercel app_(iPhone 14 Pro Max)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/10f8d3c9-3422-4366-bc42-9db7d1928e0b)
 
 
 ### Navbar
 
 Navigation Bar is the topmost layer or bar of our website. In this bar, you find the various types of the menus like Mobile & Tablets , Television, Audio, Camera, Home Appliances, Accessories, Personal Care etc.
+![Screenshot (222)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/daf0f214-e4e7-46ca-9fba-20a3fb65a898)
 
-![image](https://user-images.githubusercontent.com/97522154/214004921-ac555b3a-248a-41b5-8b55-7d8ab017e9bc.png)
 
 ### Small Screen : 
+![reliance-digital-sigma vercel app_(Samsung Galaxy A51_71)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/58c933be-bb79-4fa7-9caf-fa62bbfcea91)
 
-![image](https://user-images.githubusercontent.com/97522154/214005398-f128c69b-cced-40d0-8c2a-6aed5330035d.png)
 
 It is a cart Page where you find the different kinds of the products which products you added in your cart. Take a look on that.
 
@@ -68,19 +68,20 @@ It is a cart Page where you find the different kinds of the products which produ
 
 In this section have different kinds of the products & various categories products etc. You easily find the product which you have to need.
 
-![image](https://user-images.githubusercontent.com/97522154/214007279-0ec6c82c-4548-490a-bfdb-77e74ba2e52d.png)
+![Screenshot (223)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/fabaa7d9-f936-4d5f-abbc-d0bb47cdf522)
 
 ## Cart Page 
 
 Cart Page have all that product which you want to buy. In Product Page you have to click on add to cart. Product will added in cart Page. A cart page is an essential part of an e-commerce website. It is the page where users can pile up what they want to buy from the website and then simply checkout by paying online. To comprehend what a cart page does, think of it as a normal shopping cart in a store.
 
-![image](https://user-images.githubusercontent.com/97522154/214007996-64f8eae6-f463-4119-8521-689233c54d16.png)
+![Screenshot (224)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/c0e4281a-58af-4428-ba7f-fb1ebd47394a)
+
 
 ## Footer
 
 As you know that every website have the header and footer. Also in this this website, we have a pretty good footer which helps you to move the different kinds of the important pages.
 
-![image](https://user-images.githubusercontent.com/97522154/214005797-8628bda3-89fc-4c73-8bfd-c9afef3a8664.png)
+![Screenshot (225)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/7f468792-b777-4d3f-84ef-0785ad8a5c54)
 
 So, this is the footer of our website clone. All the things in quite easy to use as well as mobile, tablet and desktop. We hope you like these things.
 
