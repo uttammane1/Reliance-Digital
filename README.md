@@ -13,7 +13,6 @@ Reliance Digital webiste looks very amazing and introduced with various type of 
  <ol dir="auto">◉ CSS : 5.4%</ol>
  </ul>
  
-<<<<<<< HEAD
  ## Functionalities
  
  <ul dir="auto">
@@ -24,7 +23,6 @@ Reliance Digital webiste looks very amazing and introduced with various type of 
  <ol dir="auto">4. Login and Sign Up </ol>
  </ul>
  
-=======
 ## Features
 
 - User Authentication (Login/Logout)
@@ -108,4 +106,3 @@ The cart page allows users to view products they have added to their cart, adjus
 The checkout page enables users to finalize their purchases by entering their shipping information and payment details.
 
 ![Screenshot (230)](https://github.com/uttammane1/Reliance-Digital/assets/151371801/6e54b6c8-aa85-441b-ae08-724973561178)
->>>>>>> 791ec7bae809f3f93359da140e8063af1dc0e469
