@@ -41,7 +41,12 @@ To get started with the project, follow these steps:
     npm install
     ```
 
-4. **Start the development server:**
+4. **Install additional libraries:**
+    ```sh
+    npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion axios react-router-dom
+    ```    
+
+5. **Start the development server:**
     ```sh
     npm start
     ```
