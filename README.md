@@ -1,11 +1,13 @@
 ## Project Name -  Reliance-Digital-Clone
+Project Description:-This project is a collaborative effort to create a visually appealing simplified clone of the ‘Reliance Digital’ website utilizing HTML5, CSS3, JavaScript (ES6) and React.js. The goal is to replicate the main features and design elements of the current site to gain practical hand-on experience and showcase our skills in web development.
 
-Reliance Digital is ECommerce Website & is a clone of Reliance Digital. It is used for buying the electrical products, Home Appliances & other kind of products. Reliance Digital Stores are bigger in size than the other format Reliance Digital Mini Stores. It is one of the largest electronics retailers in India with over 5,000 products in its inventory.
+Reliance Digital is an ECommerce Website. It is used for buying electrical products, home appliances & other miscellaneous items in day to day uses. Reliance Digital Stores are bigger in size than any other format Reliance Digital Mini Stores. It is one of the largest retailers of electronics in India with over 5,000 products in its inventory.
 
 
 ## Tech Stack Used
 
-Reliance Digital webiste looks very amazing and introduced with various type of languages like React, JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
+Increased website performance by optimizing front-end and back-end code for faster loading times.
+Applied responsive design principles to ensure consistent display and functionality across a wide range of devices, including mobile phones, tablets, and desktop computers, utilizing the below mentioned tech stacks :-
 
 <ul dir="auto">
  <ol dir="auto">◉ JavaScript : 94.0%</ol>
